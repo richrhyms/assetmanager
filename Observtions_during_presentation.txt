@@ -1,0 +1,14 @@
+Add asset asst category not add faculty
+Departments says bo registered faculty
+Provided by should be a drop down
+Asset life span a leap should be considered
+
+
+Units of University
+Owner Type => Create a multi user unit
+Location should be added to the excel file
+Column for name of suppliers should be added
+Asset insured and insurance company
+Current value should have a currency sign
+Current value should be rounded to 2 decimal places
+

@@ -1,0 +1,17 @@
+/* 
+    Document   : dashboard
+    Created on : Jan 15, 2014, 5:18:37 PM
+    Author     : Emmanuel
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+.align_center{
+    text-align: center;
+    display: block
+}
+

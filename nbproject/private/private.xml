@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/wamp/www/assetmanager/modules/asset/partials/asset_index.php</file>
+            <file>file:/C:/wamp/www/assetmanager/modules/asset/js/asset.js</file>
+            <file>file:/C:/wamp/www/assetmanager/modules/asset/partials/asset_create.php</file>
+            <file>file:/C:/wamp/www/assetmanager/modules/asset/server/asset_create_exec.php</file>
+            <file>file:/C:/wamp/www/assetmanager/modules/dashboard/partials/dashboard_index.php</file>
+            <file>file:/C:/wamp/www/assetmanager/modules/core/server/core_facility_details_exec.php</file>
+            <file>file:/C:/wamp/www/assetmanager/modules/core/server/assets_get_exec.php</file>
+            <file>file:/C:/wamp/www/assetmanager/modules/asset/partials/asset_edit.php</file>
+            <file>file:/C:/wamp/www/assetmanager/modules/report/server/getassets.php</file>
+            <file>file:/C:/wamp/www/assetmanager/modules/dashboard/server/assets_get_exec.php</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,26 @@
+AssetName,AssetDesc,ProvidedBy,AcquiredDate,LifeTime,Amount,AssetTagID,OwnerType,Owner,Photo,Category
+Motor Vehicle,Mercedes Benz GL 450,University,1/6/2014,1461,5850000,5IF-01FG,Faculty,4,NULL,1
+Motor Vehicle,Toyota Prado TXL,Government,1/6/2014,1461,14995000,5IF-02FG,Faculty,4,NULL,1
+Motor Vehicle,Toyota Camry (1.8) 2011,University,1/6/2014,1461,3750000,5IF-03FG,Faculty,4,NULL,1
+Motor Vehicle,Peugeot 407,Government,1/6/2014,1461,2650000,5IF-04FG,Faculty,4,NULL,1
+Motor Vehicle,Toyota Corolla (1.8L) 2011,University,1/6/2014,1461,3750000,5IF-05FG,Faculty,4,NULL,1
+Motor Vehicle,Toyota Corolla (1.8L) 2011,University,1/6/2014,1461,3750000,5IF-06FG,Faculty,4,NULL,1
+Motor Vehicle,Toyota Corolla (1.8L) 2011,University,1/6/2014,1461,3750000,5IF-07FG,Faculty,4,NULL,1
+Motor Vehicle,Toyota Corolla (1.8L) 2011,University,1/6/2014,1461,3750000,5IF-08FG,Faculty,4,NULL,1
+Motor Vehicle,Toyota Corolla (1.8L) 2011,University,1/6/2014,1461,3750000,5IF-09FG,Faculty,4,NULL,1
+Motor Vehicle,Toyota Corolla (1.8L) 2011,University,1/6/2014,1461,3750000,5IF-10FG,Faculty,4,NULL,1
+Motor Vehicle,Toyota Corolla (1.8L) 2011,University,1/6/2014,1461,3750000,5IF-11FG,Faculty,4,NULL,1
+Motor Vehicle,Toyota Corolla (1.8L) 2011,University,1/6/2014,1461,3750000,5IF-12FG,Faculty,4,NULL,1
+Motor Vehicle,Peugeot Ambulance Expert,Government,1/6/2014,1461,5475000,5IF-13FG,Faculty,4,NULL,1
+Motor Vehicle,Toyota Hilux VVTi,University,1/6/2014,1461,4888000,5IF-14FG,Faculty,4,NULL,1
+Motor Vehicle,Toyota Hilux VVTi,Government,1/6/2014,1461,4888000,5IF-15FG,Faculty,4,NULL,1
+Motor Vehicle,Toyota Hilux VVTi,Government,1/6/2014,1461,4888000,5IF-16FG,Faculty,4,NULL,1
+Motor Vehicle,Toyota Hilux VVTi,Government,1/6/2014,1461,4888000,5IF-17FG,Faculty,4,NULL,1
+Motor Vehicle,Toyota Bus Coaster VVTi,Government,1/6/2014,1461,9225000,5IF-18FG,Faculty,4,NULL,1
+Motor Vehicle,Toyota Bus Coaster VVTi,Government,1/6/2014,1461,9225000,5IF-19FG,Faculty,4,NULL,1
+Motor Vehicle,"Mercedes Benz Tanker 10,000 ltrs",Government,1/6/2014,1461,11150000,5IF-20FG,Faculty,4,NULL,1
+Motor Vehicle,"Mercedes Benz Tanker 15,000 ltrs",Government,1/6/2014,1461,11150000,5IF-21FG,Faculty,4,NULL,1
+Motor Vehicle,Mercedes Benz van Refuse Van,Government,1/6/2014,1461,10650000,5IF-22FG,Faculty,4,NULL,1
+Motor Vehicle,Mercedes Benz bus 52-Seater,Government,1/6/2014,1461,11275000,5IF-23FG,Faculty,4,NULL,1
+Motor Vehicle,Toyota Hilux VVTi,Government,1/6/2014,1461,5225000,5IF-24FG,Faculty,4,NULL,1
+Motor Vehicle,Toyota Hilux VVTi,Government,1/6/2014,1461,4888000,5IF-25FG,Faculty,4,NULL,1
